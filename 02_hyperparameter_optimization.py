@@ -1,3 +1,6 @@
+"""@wandbcode{mlops-zoomcamp}
+"""
+
 import os
 import pickle
 
