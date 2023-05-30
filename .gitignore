@@ -161,3 +161,5 @@ cython_debug/
 
 *.pkl
 wandb/
+data/**.csv
+artifacts/
